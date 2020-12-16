@@ -1,0 +1,10 @@
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\bin\Debug\netstandard2.0\ML_and_EuclideanML.Model.deps.json
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\bin\Debug\netstandard2.0\ML_and_EuclideanML.Model.dll
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\bin\Debug\netstandard2.0\ML_and_EuclideanML.Model.pdb
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.csprojAssemblyReference.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.AssemblyInfoInputs.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.AssemblyInfo.cs
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.dll
+C:\Users\Ernestas\Desktop\Darbai\Duomenu tyryba\Kursinis\ML\ML_and_Euclidean\ML_and_EuclideanML.Model\obj\Debug\netstandard2.0\ML_and_EuclideanML.Model.pdb
